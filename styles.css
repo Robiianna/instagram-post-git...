@@ -1,0 +1,35 @@
+
+body {
+    background: black;
+    font-family:  'Roboto', sans-serif;
+}
+.post {
+    width: 400px;
+	height: 550px;
+	background: white;
+	margin: auto;
+	padding: 0;
+}
+.post-header {
+    display: flex;
+}
+.post-header img{
+    width: 40px;
+    height: 40px;
+}
+.post-header h4 {
+    margin-top: 6px;
+}
+.post-imagen {
+    width: 267px ;
+    height: 267px;
+    display: flex;
+}
+.icon_bar{display: flex;
+    justify-content: space-between;
+    
+}
+.post-body {margin: 10px;}
+
+
+ 
